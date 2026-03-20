@@ -1,0 +1,24 @@
+{
+  "name": "SoundWave",
+  "short_name": "SoundWave",
+  "description": "Your all-in-one music streaming platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#1DB954",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/cover.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/img/cover.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "categories": ["music", "entertainment"],
+  "lang": "en"
+}
